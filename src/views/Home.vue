@@ -3,7 +3,7 @@
     <h1>home</h1>
     <HelloWorld msg="Hello world" />
     <div>
-      <h1>antd</h1>
+      <router-link to="/antd">antd</router-link>
     </div>
   </div>
 </template>
